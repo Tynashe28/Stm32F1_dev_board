@@ -1,0 +1,9 @@
+Manufacturer=Shou Han
+PartNumber=MSK12C02
+PartCategory=Switch
+PackageCategory=Other
+PinCount=7
+Version=1.2
+Released=2020-01-08 17:40:21
+Downloaded=2022-07-15 12:48:06
+3D=Y

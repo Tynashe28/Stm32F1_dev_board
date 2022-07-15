@@ -1,0 +1,18 @@
+.SMD-3225_4P16MHZ_20PF_10PPM_-40~-plus-85 :1 ;SMD-3225_4P16MHZ 20PF 10PPM -40~+85
+SMD3225_4P16MHZ20PF10PPM4085
+*STM L
+*NGS
+*PLB 1="CRYSTAL_1" 2="GND_1" 3="CRYSTAL_2" 4="GND_2"
+*MXP 4
+*DFN SMD-3225_4P16MHZ_20PF_10PPM_-40~-plus-85
+~!Manufacturer_Name (TAE(Zhejiang Abel Elec))
+~!Manufacturer_Part_Number (SMD-3225_4P16MHZ 20PF 10PPM -40~+85℃)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/Zhejiang-Abel-Elec-SMD-3225-4P-16MHz-20pF-10ppm-40-85_C164049.pdf)
+~!Height (0.8mm)
+~!3D_Model (SMD-3225_4P16MHZ_20PF_10PPM_-40~+85℃)
+SMD-3225_4P16MHZ_20PF_10PPM_-40~-plus-85
+1.1!U 2.1!U 3.1!U 4.1!U 

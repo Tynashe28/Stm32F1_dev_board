@@ -1,0 +1,9 @@
+Manufacturer=TAE(Zhejiang Abel Elec)
+PartNumber=SMD-3225_4P16MHZ 20PF 10PPM -40~+85℃
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=4
+Version=1.3
+Released=2020-01-05 14:18:36
+Downloaded=2022-07-15 13:12:37
+3D=Y

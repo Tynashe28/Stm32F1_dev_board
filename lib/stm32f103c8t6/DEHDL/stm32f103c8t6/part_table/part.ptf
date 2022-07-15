@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'stm32f103c8t6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "RJA", "IOUT_MAX", "IOUT_MIN", "ICC", "IGND", "RCA", "RJC", "ICCQ", "TECHNOLOGY", "VDD_MAX", "VDD_MIN";
+{========================================================================================}
+ "STMicroelectronics", "stm32f103c8t6" (!) = "", "QFP50P900X900X160-48N", "Quad Flat Packages", "511-STM32F103C8T6", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F103C8T6?qs=bhCVus9SdFtq6kqxsU5%2FDA%3D%3D", "STM32F103C8T6", "https://www.arrow.com/en/products/stm32f103c8t6/stmicroelectronics?region=nac", "Mainstream Performance line, ARM Cortex-M3 MCU with 64 Kbytes Flash, 72 MHz CPU, motor control, USB and CAN", "https://www.st.com/resource/en/datasheet/stm32f103c8.pdf", "1.6 mm", "150", "", "363m", "", "MCU SMD", "LQFP-48", "55", "25m", "25m", "150m", "", "", "", "", "CMOS_TTL", "4", "-0.3"
+END_PART
+
+END.

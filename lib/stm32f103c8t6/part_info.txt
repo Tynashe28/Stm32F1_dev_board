@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=stm32f103c8t6
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=48
+Version=1.1
+Released=2020-09-17 03:53:03
+Downloaded=2022-07-15 11:06:28
+3D=Y

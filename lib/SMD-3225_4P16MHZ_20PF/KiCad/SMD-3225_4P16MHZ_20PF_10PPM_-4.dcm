@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMD-3225_4P16MHZ_20PF_10PPM_-40~+85
+D SMD-3225_4P16MHZ 20PF 10PPM -40~+85
+K
+F https://datasheet.lcsc.com/szlcsc/Zhejiang-Abel-Elec-SMD-3225-4P-16MHz-20pF-10ppm-40-85_C164049.pdf
+$ENDCMP
+#
+#End Doc Library

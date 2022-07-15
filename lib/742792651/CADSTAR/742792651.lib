@@ -1,0 +1,18 @@
+.742792651 :1 ;WE-CBF Ferrite Bead 0603 600Ohm 1000mA WE-CBF Ferrite Bead 0603 600Ohm 1000mA
+BEADC1608X100N
+*STM FB
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 742792651
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (742792651)
+~!Mouser Part Number (710-742792651)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/742792651?qs=5twSNpOB8IDs0LGakhqBZQ%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/48062ffb9caf49acf8bdc538db0cfb17.pdf)
+~!Height (1mm)
+~!3D_Model (742792651)
+"742792651"
+1.1!U 2.1!U 
